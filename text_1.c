@@ -7,8 +7,8 @@ int main()
 {
 	int a=1;
 	if(check_sys(a))
-	    printf("Ğ¡¶Ë\n");
+	    printf("å°ç«¯\n");
 	else
-		printf("´ó¶Ë\n");
+		printf("å¤§ç«¯\n");
 	return 0;
 }
